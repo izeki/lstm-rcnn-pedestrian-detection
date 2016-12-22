@@ -1,0 +1,11 @@
+# Compiled scripts
+*.pyc
+
+# Saved models
+models/
+
+# Temporary results
+log/
+current-model.ckpt
+current-model.ckpt.meta
+checkpoint
